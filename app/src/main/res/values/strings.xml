@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherMap</string>
+    <string name="title_activity_maps">Weather Map</string>
+    <string name="content_authority">se.frand.app.weathermap</string>
+    <string name="sync_account_type">weathermap.frand.se</string>
+    <string name="preference_file_key">se.frand.app.weathermap.LOCATION</string>
+    <string name="pref_latitude_key">latitude_key</string>
+    <string name="pref_longitude_key">longitude_key</string>
+</resources>
